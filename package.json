@@ -1,0 +1,22 @@
+{
+  "name": "backend-valenzuela",
+  "version": "1.0.0",
+  "description": "Estudio Tecnicatura en Desarrollo de Aplicaciones en UNLaM y Desarrollo Full Stack en CoderHouse.",
+  "main": "proyecto_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImaaValenzuela/BackendValenzuela.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImaaValenzuela/BackendValenzuela/issues"
+  },
+  "homepage": "https://github.com/ImaaValenzuela/BackendValenzuela#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
