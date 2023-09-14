@@ -1,0 +1,17 @@
+{
+	"name": "04.-manejo-de-archivos",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"info": {
+		"contenidoStr": "(contenido del archivo leído en formato string)",
+		"contenidoObj": "(contenido del archivo leído en formato objeto)",
+		"size": "(tamaño en bytes del archivo)"
+	}
+}

@@ -1,0 +1,5 @@
+{
+	"contenidoStr": "(contenido del archivo leído en formato string)",
+	"contenidoObj": "(contenido del archivo leído en formato objeto)",
+	"size": "(tamaño en bytes del archivo)"
+}
