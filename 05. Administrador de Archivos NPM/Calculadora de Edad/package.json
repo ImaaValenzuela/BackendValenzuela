@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-de-edad",
+  "version": "1.0.0",
+  "description": "Calculadora de edad con la dependencia Moment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ImaaValenzuela",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
